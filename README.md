@@ -1,0 +1,2 @@
+# .-ziro
+Ziro rizo
